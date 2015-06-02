@@ -8,12 +8,9 @@ import android.view.MenuItem;
 
 
 public class NerdLauncherActivity extends SingleFragmentActivity {
-
-  
-
+	
 	@Override
 	protected Fragment createFragment() {
-		// TODO Auto-generated method stub
-		return null;
+		return new NerdLauncherFragment();
 	}
 }
