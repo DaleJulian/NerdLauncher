@@ -1,0 +1,7 @@
+INDEX VERSION 1.127+/home/dale/Desktop/NerdLauncher/.metadata/.plugins/org.eclipse.jdt.core
+3553248099.index
+1152608093.index
+1635169015.index
+1270315800.index
+3910781444.index
+2001767409.index
